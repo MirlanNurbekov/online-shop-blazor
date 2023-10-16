@@ -1,0 +1,11 @@
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\bin\Debug\net6.0\BlazingShop.Shared.deps.json
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\bin\Debug\net6.0\BlazingShop.Shared.dll
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\bin\Debug\net6.0\BlazingShop.Shared.pdb
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\BlazingShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\BlazingShop.Shared.AssemblyInfoInputs.cache
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\BlazingShop.Shared.AssemblyInfo.cs
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\BlazingShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\BlazingShop.Shared.dll
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\refint\BlazingShop.Shared.dll
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\BlazingShop.Shared.pdb
+C:\Users\mirla\Desktop\Learning curve\BlazingShop\BlazingShop\Shared\obj\Debug\net6.0\ref\BlazingShop.Shared.dll
