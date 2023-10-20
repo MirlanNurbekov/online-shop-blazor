@@ -18,5 +18,10 @@ namespace BlazingShop.Client.Services.CategoryService
 		{
 			Categories = await _http.GetFromJsonAsync<List<Category>>("api/Category");
 		}
+
+		public Task<object?> GetCategories()
+		{
+			throw new NotImplementedException();
+		}
 	}
 }
